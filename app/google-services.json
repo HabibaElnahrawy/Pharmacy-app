@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187516182904",
+    "project_id": "pharmacy-ecommerce-af48e",
+    "storage_bucket": "pharmacy-ecommerce-af48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187516182904:android:ca379e55a4e6ec00e7688d",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187516182904-991eg2if9bi6hirvpsata4vjoph0rkbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmacyapp",
+            "certificate_hash": "e27b6d6464c951d180019fd3779457144dafd1ce"
+          }
+        },
+        {
+          "client_id": "187516182904-0mutp33tasgriln873v3ge5se4dfk3oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXT31RKhBhORAX7UxMqcssheRpaUyb0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187516182904-0mutp33tasgriln873v3ge5se4dfk3oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
